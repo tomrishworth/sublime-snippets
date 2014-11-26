@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@include MQ(L) {
+  ${1}     
+}
+]]></content>
+  <tabTrigger>mql</tabTrigger>
+  <scope>source.scss</scope> 
+</snippet>

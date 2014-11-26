@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@include MQ(S) {
+  ${1}
+}
+]]></content>
+  <tabTrigger>mqs</tabTrigger>
+  <scope>source.scss</scope> 
+</snippet>
